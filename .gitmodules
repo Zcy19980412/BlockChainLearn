@@ -80,3 +80,6 @@
 [submodule "25_dao/lib/forge-std"]
 	path = 25_dao/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "25_dao/lib/compound-governance"]
+	path = 25_dao/lib/compound-governance
+	url = https://github.com/compound-finance/compound-governance
