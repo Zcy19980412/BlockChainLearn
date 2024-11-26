@@ -83,3 +83,6 @@
 [submodule "25_dao/lib/compound-governance"]
 	path = 25_dao/lib/compound-governance
 	url = https://github.com/compound-finance/compound-governance
+[submodule "25_dao/lib/openzeppelin-contracts"]
+	path = 25_dao/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
