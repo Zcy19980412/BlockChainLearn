@@ -86,3 +86,6 @@
 [submodule "25_dao/lib/openzeppelin-contracts"]
 	path = 25_dao/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "27_erc1155/lib/forge-std"]
+	path = 27_erc1155/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
